@@ -4,7 +4,7 @@
   "description": "Test",
   "main": "index.js",
   "private": true,
-  "version-tag-prefix": "ta",
+  "tag-version-prefix": "ta",
   "scripts": {
     "release": "np --any-branch"
   },
