@@ -1,23 +1,13 @@
 {
   "name": "nptest",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Test",
-  "main": "index.js",
   "private": true,
-  "tag-version-prefix": "ta",
   "scripts": {
     "release": "np --any-branch"
   },
   "author": "thomas",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/thomasaull/nptest.git"
-  },
-  "bugs": {
-    "url": "https://github.com/thomasaull/nptest/issues"
-  },
-  "homepage": "https://github.com/thomasaull/nptest#readme",
   "dependencies": {
     "np": "^2.19.0"
   }
