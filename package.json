@@ -1,6 +1,6 @@
 {
   "name": "nptest",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Test",
   "main": "index.js",
   "private": true,
